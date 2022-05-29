@@ -10,3 +10,4 @@ C:\Users\Abdirizak\source\repos\Class 630 PM\Loops\Loops\obj\Debug\Loops.csproj.
 C:\Users\Abdirizak\source\repos\Class 630 PM\Loops\Loops\obj\Debug\Loops.exe
 C:\Users\Abdirizak\source\repos\Class 630 PM\Loops\Loops\obj\Debug\Loops.pdb
 C:\Users\Abdirizak\source\repos\Class 630 PM\Loops\Loops\obj\Debug\Loops.frmForLoop.resources
+C:\Users\Abdirizak\source\repos\Class 630 PM\Loops\Loops\obj\Debug\Loops.frmdoWhileLopp.resources

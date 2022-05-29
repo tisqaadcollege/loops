@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmdoWhileLopp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdoWhileLopp.Designer.cs">
+      <DependentUpon>frmdoWhileLopp.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmForLoop.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdoWhileLopp.resx">
+      <DependentUpon>frmdoWhileLopp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmForLoop.resx">
       <DependentUpon>frmForLoop.cs</DependentUpon>
